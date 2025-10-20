@@ -20,5 +20,6 @@ public class first {
         System.out.println(q);
         System.out.println(q.size());// This will return the size of the array....
         System.out.println(q.contains(2));// THis will return the boolean value that the element is present in the queue or not....
+        System.out.println();
     }
 }
