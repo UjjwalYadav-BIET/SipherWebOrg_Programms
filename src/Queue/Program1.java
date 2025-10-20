@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 // Wap to print the dynamic queue......
-public class addProgram1 {
+public class Program1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Queue<Integer> queue = new LinkedList<>();
